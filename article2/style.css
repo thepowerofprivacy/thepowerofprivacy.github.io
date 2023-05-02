@@ -1,0 +1,148 @@
+body{
+    margin: 0;
+    max-width: 430px;
+    background-color: #BF1A2F;
+}
+
+p {
+    margin: 0px;
+    font-family: 'Work Sans', sans-serif;
+    font-size: medium;
+    font-size: 1.3em;
+    font-weight: 400;
+    line-height:26px;
+}
+
+.bluepart {
+    background-color: #454E9E;
+    color: white;
+}
+
+.redpart {
+    background-color: #BF1A2F;
+    color: white;
+}
+
+.pinkpart {
+    background-color: #E0919D;
+}
+
+.greenpart {
+    background-color: #018E42;
+    color: white;
+}
+
+.yellowpart {
+    background-color: #E3B93E;
+}
+
+.whitepart {
+    height: 750px;
+    margin-top: -50px;
+    background-color: white;
+}
+
+button {
+    background-color: #454E9E;
+    border: none;
+    font-family: 'Work Sans', sans-serif;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    margin: 40px auto;
+    font-size: 16px;
+    border: #018E42 solid 2px;
+    border-radius: 10px;
+    display: flex;
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+#textabovecatcomic1 {
+    padding-top: 40px;
+    padding-bottom: 20px;
+    margin-left: 50px;
+}
+
+#textbelowcatcomic1 {
+    padding: 20px;
+    text-align: right;
+    margin-right: 40px;
+}
+
+#textbeloweveryoneransom {
+    padding: 20px;
+    text-align: right;
+    margin-right: 40px;
+}
+
+#textabovecatcomic2 {
+    padding-top: 30px;
+    padding-bottom: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+#textbelowcatcomic2{
+    padding-top: 0px;
+    padding-bottom: 30px;
+    padding-right: 30px;
+    text-align: right;
+    
+}
+
+#yellowportiontext {
+    padding: 20px 50px;
+}
+
+#textbelowfolder {
+    text-align: right;
+    padding: 0px 30px 30px 30px;
+}
+
+#textonlocks {
+    position: absolute;
+    margin-left: 25%;
+    padding-top: 300px;
+}
+
+#textnexttocatpokingheadfromside {
+    position: absolute; 
+    text-align: right; 
+    padding: 40px;
+    margin-left: 200px;
+}
+
+#colorblocktext {
+    position: absolute;
+    margin-left: 30%;
+    margin-right: 40px;
+    padding-top: 180px;
+}
+
+#textnexttocolumncat {
+    position: absolute;
+    margin-left: 50%;
+    margin-right: 40px;
+}
+
+#textonbluedots {
+    position: absolute;
+    padding: 80px 40px 40px 40px;
+}
+
+#textbelowbluedots {
+ padding: 40px;
+ text-align: right;
+}
+
+#textaboveprotestcat {
+    padding: 40px;
+}
+
+#textabovehands {
+    padding: 40px;
+}
