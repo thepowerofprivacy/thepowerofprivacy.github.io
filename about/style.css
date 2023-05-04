@@ -1,22 +1,10 @@
 body {
     background-color: #E0919D;
-    max-width: 430px;
+    max-width: 530px;
     margin: 0;
 }
 
-p {
-    font-family: 'Work Sans', sans-serif;
-    font-size: medium;
-    font-size: 1.2em;
-    font-weight: 400;
-    color: black;
-    text-align: center;
-    padding: 0 60px;
-    line-height: 33px;
-    margin-top: -730px;
-}
-
-img {
+.hello {
     width: 100%;
     padding-top: 60px;
 }
@@ -25,17 +13,43 @@ a {
     text-decoration: none;
 }
 
+.portfoliolink {
+    font-family: 'Work Sans', sans-serif;
+    text-align: center;
+    color: white;
+    padding-bottom: 40px;
+}
+.portfoliolink:visited {
+    color: white;
+}
 
-/* img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    padding-bottom: 30px;
-} */
+.portfoliolink:hover{
+    color:black;
+}
+
+.resources {
+    border: 3px solid black;
+    width: 90%;
+    margin: 0 auto;
+}
 
 h3 {
     font-family: 'Work Sans', sans-serif;
-    color: white;
-    margin-left: 20px;
-    padding-top: 400px;
+    text-align: center;
+    color: black;
+}
+
+p {
+    font-family: 'Work Sans', sans-serif;
+    text-align: center;
+    color: black;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+li {
+    font-family: 'Work Sans', sans-serif;
+    color: black;
+    text-decoration: none;
+    list-style-type: none;
 }
